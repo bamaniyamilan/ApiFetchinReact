@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bamaniyamilan/ApiFetchinReact/static/css/main.073c9b0a.css",
+    "main.js": "/bamaniyamilan/ApiFetchinReact/static/js/main.a7fa05ab.js",
+    "static/js/787.a03790bd.chunk.js": "/bamaniyamilan/ApiFetchinReact/static/js/787.a03790bd.chunk.js",
+    "index.html": "/bamaniyamilan/ApiFetchinReact/index.html",
+    "main.073c9b0a.css.map": "/bamaniyamilan/ApiFetchinReact/static/css/main.073c9b0a.css.map",
+    "main.a7fa05ab.js.map": "/bamaniyamilan/ApiFetchinReact/static/js/main.a7fa05ab.js.map",
+    "787.a03790bd.chunk.js.map": "/bamaniyamilan/ApiFetchinReact/static/js/787.a03790bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a7fa05ab.js"
+  ]
+}
